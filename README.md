@@ -1,8 +1,4 @@
-[![GitHub Actions Status](https://github.com/nrobinson2000/neopo/workflows/python-pip/badge.svg)](https://github.com/nrobinson2000/neopo/actions)
-[![Build Status](https://travis-ci.org/nrobinson2000/neopo.svg?branch=master)](https://travis-ci.org/nrobinson2000/neopo)
-[![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/nrobinson2000/neopo)](https://hub.docker.com/r/nrobinson2000/neopo)
-[![AUR package](https://repology.org/badge/version-for-repo/aur/neopo.svg)](https://aur.archlinux.org/packages/neopo-git/)
-[![Particle Community](https://img.shields.io/badge/particle-community-informational)](https://community.particle.io/t/neopo-a-lightweight-solution-for-local-particle-development/56378?u=nrobinson2000)
+[![GitHub Actions Status](https://github.com/jaydwayne/neopo/workflows/python-pip/badge.svg)](https://github.com/jaydwayne/neopo/actions)
 
 # neopo
 ## A lightweight solution for local Particle development.
@@ -36,18 +32,12 @@ $ neopo install
 Install from source (pip):
 
 ```bash
-$ git clone https://github.com/nrobinson2000/neopo
+$ git clone https://github.com/jaydwayne/neopo
 $ cd neopo
 $ sudo python3 -m pip install .
 $ neopo install
 ```
 
-Docker container:
-
-```bash
-$ docker pull nrobinson2000/neopo
-$ docker run -it nrobinson2000/neopo
-```
 
 For more installation information, please refer to the [Installation tutorial.](https://neopo.xyz/tutorials/install)
 
