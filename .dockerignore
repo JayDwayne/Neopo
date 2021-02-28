@@ -1,0 +1,7 @@
+*
+!.git
+!neopo
+!setup.py
+!scripts
+!completion
+!docker-install.sh

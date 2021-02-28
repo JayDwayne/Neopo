@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__
+test
+install-native
+install.tar.gz
+gcc-arm*
+extensions
+.vscode
+aur
+build
+dist
+neopo.egg-info
+neopo/neopo.c
+Makefile
+temp
